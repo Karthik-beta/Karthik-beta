@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthik-beta
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me?? karthikpar@protonmail.com
 
