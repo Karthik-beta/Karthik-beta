@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Karthik-beta
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me?? karthikpar@protonmail.com
+👋 Hi, I'm Karthik-beta, a passionate programmer. I'm currently exploring various technologies in this field and always looking to collaborate on exciting projects. You can reach me at karthikpar@protonmail.com.
+My tech stack includes Python, JavaScript, HTML5, CSS3, AWS, Azure, Netlify, Bootstrap, Canva, and Linux. Check out my GitHub stats to see what I've been working on! Don't forget to connect with me on Instagram and LinkedIn.
 
 
 ## 🌐 Socials:
