@@ -12,7 +12,7 @@ I'm a full-stack software engineer, backend-leaning, with 3+ years of shipping e
 
 - 30+ customer deployments across two companies
 - Co-founded Pivotr and built core modules of its ERP, Aria
-- An open-source library, workclock, published for Rust, Python and JavaScript
+- Two open-source libraries, workclock and fiscalclock, each published for Rust, Python and JavaScript
 
 ## Maintaining
 
@@ -33,6 +33,14 @@ Business-time arithmetic (working hours, SLAs, shifts, holidays and time zones) 
 Rust, Python (PyO3), WebAssembly, TypeScript
 
 [Docs](https://workclock.karthik.nz/docs/) · [Case study](https://karthik.nz/work/workclock)
+
+### [fiscalclock](https://github.com/Karthik-beta/fiscalclock)
+
+A fiscal calendar engine: describe a fiscal calendar as JSON (4-4-5 week patterns, 52/53-week years, fixed-date years) and get the fiscal year, quarter, period and week of any date. A Rust core with Python and JavaScript bindings, published on crates.io, PyPI and npm. All three packages are checked against the same 288 conformance vectors and must return identical output.
+
+Rust, Python (PyO3), WebAssembly, TypeScript
+
+[Docs](https://fiscalclock.karthik.nz)
 
 ## Shipped
 
