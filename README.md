@@ -5,7 +5,7 @@ I build backend-heavy products and see them through to production.
 I'm a full-stack software engineer, backend-leaning, with 3+ years of shipping enterprise software. I co-founded Pivotr and built core modules of its ERP. **Available now** for roles in Bengaluru or remote in India.
 
 - **Website:** [karthik.nz](https://karthik.nz), with case studies of the projects below
-- **Resume:** [karthik.nz/resume.pdf](https://karthik.nz/resume.pdf)
+- **Resume:** [karthik.nz/resume](https://karthik.nz/resume)
 - **Contact:** [karthikparam10@gmail.com](mailto:karthikparam10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/karthik-paramesh)
 
 **Stack:** TypeScript, Node.js, NestJS, Next.js, React, PostgreSQL, Docker. Also Python and Rust.
